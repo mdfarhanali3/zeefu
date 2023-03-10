@@ -1,0 +1,66 @@
+*{
+    margin: 0;padding: 0;
+}
+.content{
+    height: 88vh;
+    background-color: #feabe1;
+
+}
+.center{
+    margin-top: 0;
+    margin-bottom: 0rem;
+    background-color: #3e3b3b;
+    height: 5vh;
+    text-align: center;
+    font-size: initial;
+    color: white;
+    line-height: 37px;
+  }
+
+.construction{
+    color: #ff1329;
+font-size: x-large;
+text-align: center;
+line-height: 17vh;
+}
+
+.dates{
+    color: #ff1329;
+font-size: x-large;
+text-align: center;
+line-height: 20vh;
+}
+
+
+.headblock {
+    display: inline-block;
+    position: relative;
+    top: 11vh;
+    left: 16vw
+}
+
+.box1 {
+    position: fixed;
+    margin-top: -5vh;
+    margin-left: 6vw;
+
+    color: black;
+    background-color: #80cfff;
+    height: 40vh;
+    width: 84vw;
+
+}
+
+.Calendar {
+    position: absolute;
+    top: 7%;
+    left: 2%;
+    width: 75%;
+    height: 90%;
+}
+
+iframe {
+
+    height: 35vh;
+    width: 80vw;
+}
