@@ -40,7 +40,7 @@ line-height: 20vh;
 }
 
 .box1 {
-    position: fixed;
+    position: relative;
     margin-top: -5vh;
     margin-left: 6vw;
 
